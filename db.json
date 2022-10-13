@@ -1,0 +1,72 @@
+{
+  "clientes": [
+    {
+      "nombre": "asfsadsadsad",
+      "empresa": "Microsoft",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "adsda",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Elba Lazo",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Mercado Libre"
+    },
+    {
+      "id": 3,
+      "nombre": "Armando Casas",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Globant"
+    },
+    {
+      "id": 4,
+      "nombre": "Esteban Quito",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Advice"
+    },
+    {
+      "id": 5,
+      "nombre": "Joselito Fernandez",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Tata Consultancy"
+    },
+    {
+      "nombre": "Franco",
+      "empresa": "adasd",
+      "email": "correo@correo.com",
+      "telefono": "1331",
+      "notas": "asasda",
+      "id": 6
+    },
+    {
+      "nombre": "Gonzalo Piedra Cueva",
+      "empresa": "101 producciones",
+      "email": "correo@correo.com",
+      "telefono": "121212121",
+      "notas": "Falopa para el gordo",
+      "id": 7
+    },
+    {
+      "nombre": "Franco",
+      "empresa": "adasd",
+      "email": "correo@correo.com",
+      "telefono": "7127719821",
+      "notas": "gfgfgfggf",
+      "id": 8
+    },
+    {
+      "nombre": "asdsad",
+      "empresa": "asdsad",
+      "email": "correo@correo.com",
+      "telefono": "342",
+      "notas": "adsdas",
+      "id": 9
+    }
+  ]
+}
